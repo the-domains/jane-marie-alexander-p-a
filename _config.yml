@@ -1,0 +1,28 @@
+name: 'Jane Marie Alexander, P.A.'
+favicon: null
+layout_spectrum: 0.6325730213429779
+typography_spectrum: 0.3417838925961405
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.49657286517322063
+  lightness: 0.19293990801088512
+  saturation: 0.7029028767719865
+  rhythmicContrast: 0.27008126000873744
+purpose: []
